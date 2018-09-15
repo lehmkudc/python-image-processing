@@ -4,7 +4,7 @@ Hello, my name is Dustin Lehmkuhl and I am a chemical engineering gradute studen
 I have been recreating various image processing algorithms and following a few openCv tutorials. The results are posted here.
 
 # SFR Detection
-
+![SFR Images](SFRreg_pillared_tilted_trans.png)
 
 # Checkerboard Detection and Analysis
 
